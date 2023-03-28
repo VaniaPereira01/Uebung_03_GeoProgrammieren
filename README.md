@@ -1,1 +1,1 @@
-# Uebung_03_GeoProgrammieren
+# Uebung_GeoProgrammieren
